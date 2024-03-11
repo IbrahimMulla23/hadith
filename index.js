@@ -1,4 +1,3 @@
-// JavaScript
 const hadithElement = document.getElementById('hadis');
 const newHadithButton = document.getElementById('hbutton');
 const narratorElement = document.getElementById('narrator');
