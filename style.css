@@ -184,19 +184,19 @@ header {
   }
 
   .sound{
-  bottom: 75%;
-  left: 117%;
+  bottom: 78%;
+  left: 125%;
   }
   
   .stop{
    left: 107%;
-   bottom: 75%;
+   bottom: 78%;
   }
 
   #google_translate_element{
     position: absolute;
-    top: 40%;
-    right: 5%;
+    top: 45%;
+    right: 12%;
   }
 
 
